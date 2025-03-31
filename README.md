@@ -14,9 +14,9 @@ This repository contains the projects developed throughout the Embedded Systems 
 
 | Project | Description |  
 |---------|------------|  
-| [Project_1: Digital Galton Board](./projetos/galton_board/) | Simulation of random events with OLED display visualization and histogram |  
-| [Project_2: Sound Synthesizer](./projetos/sintetizador_som/) | Sound generation using buttons and a buzzer |  
-| [Project_3: Balancing Robot](./projetos/robo_equilibrista/) | A two-wheeled self-balancing robot with PID control |  
+| [Project_1: Digital Galton Board](./projects/digital_galton_board/) | Simulation of random events with OLED display visualization and histogram |  
+| [Project_2: Sound Synthesizer](./projects/sound_synthesizer/) | Sound generation using buttons and a buzzer |  
+| [Project_3: Balancing Robot](./projects/balancing_robot/) | A two-wheeled self-balancing robot with PID control |  
 
 ---  
 
