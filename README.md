@@ -2,8 +2,8 @@
 
 Institution: Instituto Hardware BR-DF  
 Course: **Technological Residency in Embedded Systems**  
-Author: **[Filipe Alves de Sousa]**  
-[Brasília-DF, March 2025]  
+Author: **Filipe Alves de Sousa**  
+Brasília-DF, March 2025  
 
 ## **About This Repository**  
 This repository contains the projects developed throughout the Embedded Systems course during the technological residency phase. Each project has its own folder, containing source code, documentation, and visual resources.  
